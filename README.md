@@ -18,3 +18,6 @@
 
 ## sketch.io
  https://sketch.io/sketchpad/es/
+
+## fakenamegenerator.com
+ https://es.fakenamegenerator.com
