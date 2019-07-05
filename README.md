@@ -21,3 +21,7 @@
 
 ## fakenamegenerator.com
  https://es.fakenamegenerator.com
+
+## goart.fotor.com
+ http://goart.fotor.com/
+ Make picture like painting style
